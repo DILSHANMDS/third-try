@@ -98,3 +98,5 @@ For support, join our [Community Group](http://facebook.com/groups/webcifar).
 Happy Coding! 🚀
 upstream checking
 jenlkins connection test
+ci testing
+
